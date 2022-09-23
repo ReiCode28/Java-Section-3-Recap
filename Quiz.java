@@ -7,18 +7,22 @@ public class Quiz {
 
         System.out.println("1. Which country held the 2016 Summer Olympics?");
         System.out.println("\ta) China\n\tb) Ireland\n\tc) Brazil\n\td) Italy\n");
+        String country = scan.nextLine();
         //store answer 1
 
         System.out.println("\n2. Which planet is the hottest?");
         System.out.println("\ta) Venus\n\tb) Saturn\n\tc) Mercury\n\td) Mars\n");
+        String planet = scan.nextLine();
         //store answer 2
 
         System.out.println("\n3. What is the rarest blood type?");
         System.out.println("\ta) O\n\tb) A\n\tc) B\n\td) AB-Negative\n");
+        String bloodType = scan.nextLine();
         //store answer 3
 
         System.out.println("\n4. Which one of these characters is friends with Harry Potter?");
         System.out.println("\ta) Ron Weasley\n\tb) Hermione Granger\n\tc) Draco Malfoy\n");
+        String characters = scan.nextLine();
         //store answer 4
 
         int score = 0;
