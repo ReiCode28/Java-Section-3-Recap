@@ -17,8 +17,22 @@ I create a series of small applications to practice and recap what I've learned.
 - Application converts above passage from Harry Potter into code
 - Purpose is to practice chaining a series of if - else if - else statements
 
-<b>Ask Java!</b>
+<b>Weather Network</b>
+- Application gives user a forecast based on the temperature
+- Purpose is to practice using logical operators 
 
-<b>Ask Java!</b>
+<b>Calendar</b>
+- Application checks your calendar and lets your friend know if you can hang out
+- Purpose is to practice using switch statements. 
 
-<b>Ask Java!</b>
+<b>Bank</b>
+- This application approves customers for a loan if they meet certain requirements
+- Requirements: Have $10,000 in their savings account; Have less than $5,000 in credit card debt; Have worked for more than 2 years
+- Decideds based on input if member is approved or not
+- Purpose is to get further practice using scanner. Scan for values and use if-else to control how statements print.
+
+<b>Trivia Quiz</b>
+- An interactive trivia quiz application that asks multiple choice questions. 
+- It tracks the user's answers and prints their final score.   
+
+
